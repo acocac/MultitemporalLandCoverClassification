@@ -1,4 +1,0 @@
-[submodule "utils/convrnn"]
-	path = utils/convrnn
-	url = https://github.com/MarcCoru/tensorflow-convlstm-cell.git
-        ignore = dirty

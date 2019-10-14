@@ -1,4 +1,4 @@
-# Multitemporal Land Cover Classification Network
+# Multitemporal Land Cover Classification Network adapted to tf.Estimator and Google AI SDK
 
 A recurrent neural network approach to encode multi-temporal data for land cover classification.
 
